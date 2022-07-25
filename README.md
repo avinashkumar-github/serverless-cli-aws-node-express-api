@@ -29,6 +29,11 @@ Install dependencies with:
 npm install
 ```
 
+```
+serverless
+```
+then select the option to create the type f project.
+
 and then deploy with:
 
 ```
