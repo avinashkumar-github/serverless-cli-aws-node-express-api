@@ -26,8 +26,9 @@ This template configures a single function, `api`, which is responsible for hand
 Install dependencies with:
 
 ```
-npm install
+npm install serverless
 ```
+then run 
 
 ```
 serverless
